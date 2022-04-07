@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JayanthVarma7
 - 👀 I’m interested in Full-Stack web development
-- 🌱 I’m currently working on React and Node Js
+- 🌱 I’m currently working on Vue,React and Node Js
 - 💞️ I’m looking to collaborate on React works
 - 📫 How to reach me ...
 

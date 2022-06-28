@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JayanthVarma7
-- 👀 I’m interested in Full-Stack web development
+- 👀 I’m interested in software development and Artificial Intelligence
 - 🌱 I’m currently working on Vue and Node Js
 - 💞️ I’m looking to collaborate on Vue and Node works
 - 📫 How to reach me konduru.jayanthvarma@gmail.com
